@@ -1,0 +1,14 @@
+Go here --> http://scoreboardsystempresentation.azurewebsites.net/
+
+this is a service that was built by me and my brother, it was used commercially. cool =)
+
+what am i looking at?
+
+there is a program that prints graphics on top of a normal tv feed, this program understands a particular csv format.
+you are looking at the service that creates this csv file.
+
+it basically requires 
+1. An administrator that approves the use of the system by generating a key 
+2. A user that inputs the key into the venue gui, participates on the sports event, and inputs new values as the team scores. 
+3. Another dude that sitts anywere he/she likes with the graphics printing program. duties involved here is to start the csv 
+app to gain live updates of the game data in the form of a scv file.
